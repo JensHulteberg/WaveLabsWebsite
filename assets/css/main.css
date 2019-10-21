@@ -17,6 +17,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+		color: #F4EDC6;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -3781,7 +3782,7 @@
 			}
 
 		.post.style1 {
-			background-color: #fff;
+			background-color: #F4EDC6;
 			color: #444;
 		}
 
@@ -4611,7 +4612,7 @@
 				}
 	
 			.flex.flex-4 .box {
-				width: 21%;
+				width: 16%;
 			}
 	
 			@media screen and (max-width: 980px) {
